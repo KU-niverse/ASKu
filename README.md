@@ -80,6 +80,47 @@
 
 ## 🧑🏻‍💻 팀 소개
 
+## 2024
+
+### 1) Lead
+
+- [최영섭](https://github.com/youngsupchoi): 서비스 기획, 프론트/백엔드/AI 개발, 팀 리더
+
+### 2) Front
+
+- [김수인](https://github.com/starcat37): 프론트 리더, 프론트 개발, 성능 최적화
+- [전상윤](https://github.com/818jsy/818jsy.github.io): 프론트 개발, UI/UX 디자인
+- [김민준](https://github.com/balancingLife): 프론트 개발, 접근성 개선
+- [이승민](https://github.com/smin0117): 프론트 개발, PM, 코드 리뷰
+
+### 3) Back
+
+- [최영섭](https://github.com/youngsupchoi): 백엔드 리더, 백엔드 개발, 아키텍처 설계
+- [이나라](https://github.com/smin0117): 백엔드 개발, 데이터베이스 관리
+- [최원서](https://github.com/qlalfdmlghk1): 백엔드 개발, 시스템 모니터링
+- [김수인](https://github.com/starcat37): 백엔드 개발, API 설계
+
+### 4) AI
+
+- [양현진](https://github.com/HyeonJin-Yang): AI 리더, AI 개발, 파이프라인 구축
+- [최지현](https://github.com/Jihyun-Choi): AI 개발,  AI chatbot 기능 API 개발 및 배포
+- [박기동](https://github.com/somsaetang): AI 개발, 데이터셋 구축 및 전처리
+- [최영섭](https://github.com/youngsupchoi): AI 개발, 서비스 기획
+- [황정현](https://github.com/imjunghyunee): AI 개발, 프롬프트 엔지니어링
+
+### 5) PM
+
+- [이승민](https://github.com/smin0117): 프론트 개발, 일정/위험 관리
+
+### 6) DA
+
+- [현지수](https://github.com/j1chuuu): 데이터 분석, 데이터 시각화, 리포팅
+
+<br/>
+
+## 2023
+
+
 ### 1) Lead
 
 - [최영섭](https://github.com/youngsupchoi) : 서비스 기획, 프론트/백엔드/AI 개발
